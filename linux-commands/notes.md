@@ -1,7 +1,8 @@
-#Linux Commands
+**Linux Commands**
 
 
-##Day 1: Linux Basics & Commands
+**Day 1: Linux Basics & Commands**
+
 
 ### 🔹 Navigation & Directories
 | Command | Description | Example |
