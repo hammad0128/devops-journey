@@ -1,4 +1,4 @@
-Beginner DevOps Project ⭐
+## Beginner DevOps Project ⭐
 
 A beginner-friendly project that simulates a file explorer using only Linux commands.  
 Instead of navigating with a GUI, this project organizes files and folders from the command line and adds automation with shell scripts.
